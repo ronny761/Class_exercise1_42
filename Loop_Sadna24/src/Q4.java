@@ -2,8 +2,8 @@
 public class Q4 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		// solution for question in 24
+System.out.println("lev");
 	}
 
 }
