@@ -18,7 +18,7 @@ public class Q1 {
 				totalPrice += price;
 				
 			}
-			//to
+			
 			
 		}
 		
