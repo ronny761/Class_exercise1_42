@@ -13,7 +13,7 @@ public class T4 {
         while (people > 0) {
             int sum = 0;
             for (int i = 0; i < people; i++) {
-                System.out.print("Enter age of the person #" + (i+1));
+                System.out.print("Enter age of the person #" + (i+1) + ": ");
                 int age = scanner.nextInt();
                 sum += age;
             }
@@ -27,6 +27,8 @@ public class T4 {
                 maxPeople = people;
             }
 
+
+            System.out.print("Enter number of people: ");
             people = scanner.nextInt();
         }
 
